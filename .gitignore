@@ -1,0 +1,8 @@
+venv/
+output/*.mp4
+output/*.mp3
+output/sub.txt
+token.json
+client_secret.json
+__pycache__/
+*.pyc
